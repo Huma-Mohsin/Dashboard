@@ -1,4 +1,4 @@
-const order = {
+export default  {
     name: "order",
     type: "document",
     title: "Order",
@@ -82,5 +82,3 @@ const order = {
         },
     ],
 };
-
-export default order;
